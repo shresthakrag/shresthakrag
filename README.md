@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python for Data Analysis and Machine learning techniques.**
 
-- 📫 Reach to me through **shresthakrag@gmail.com**
+- 📫 Reach to me through **shrestha.k.agarwal@gmail.com**
 
 - ⚡ Fun fact **I have a good humor.**
 
